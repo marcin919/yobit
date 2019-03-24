@@ -19,4 +19,4 @@ echo $ama >> /home/ama.txt
 echo $btt >> /home/btt.txt
 echo $micro >> /home/micro.txt
 
-mail -s"Yobit info 0.5" email@domain.de < /home/last_yozi.txt
+mail -s"BTC: $btc (YobitInfor 0.5)" email@domain.de < /home/last_yozi.txt

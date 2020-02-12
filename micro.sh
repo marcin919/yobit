@@ -11,4 +11,4 @@ echo "MICRO/USD"  $a > /home/last_micro.txt
 
 echo $a >> /home/micro.txt
 
-mail -s"MICRO: $a" ms@mediamulti.de < /home/last_micro.txt
+mail -s"MICRO: $a" ms@mm.de < /home/last_micro.txt
